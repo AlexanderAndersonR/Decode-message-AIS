@@ -1,0 +1,10 @@
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\bin\Release\decode_message.exe.config
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\bin\Release\decode_message.exe
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\bin\Release\decode_message.pdb
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.csproj.AssemblyReference.cache
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.Form1.resources
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.Properties.Resources.resources
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.csproj.GenerateResource.cache
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.csproj.CoreCompileInputs.cache
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.exe
+C:\Users\Kaf\Desktop\in working\decode message\decode_message\decode_message\obj\Release\decode_message.pdb
